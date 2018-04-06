@@ -1,0 +1,19 @@
+2018-02-07 18:48:21.813039 DEBUG [autologger.main.log:241] [MainProcess:MainThread] JSON-RPC-POST: method=ListAccounts, url=https://10.117.207.128/json-rpc/10.1, id=1048
+2018-02-07 18:48:21.813039 DEBUG [autologger.main.log:241] [MainProcess:MainThread] JSON-RPC-POST: method=ListAccounts, url=https://10.117.207.128/json-rpc/10.1, id=1048
+2018-02-07 18:48:21.813039 ERROR [autologger.main.log:241] [MainProcess:MainThread] JSON-RPC-POST: method=ListAccounts, url=https://10.117.207.128/json-rpc/10.1, id=1048
+2018-02-07 18:48:21.813039 DEBUG [autologger.main.log:241] [MainProcess:MainThread] JSON-RPC-POST: method=ListAccounts, url=https://10.117.207.128/json-rpc/10.1, id=1048
+2018-02-07 18:48:21.813039 DEBUG [autologger.main.log:241] [MainProcess:MainThread] JSON-RPC-POST: method=ListAccounts, url=https://10.117.207.128/json-rpc/10.1, id=1048
+2018-02-07 18:48:21.813039 ERROR [autologger.main.log:241] [MainProcess:MainThread] JSON-RPC-POST: method=ListAccounts, url=https://10.117.207.128/json-rpc/10.1, id=1048
+2018-02-07 18:48:21.813039 ERROR [autologger.main.log:241] [MainProcess:MainThread] JSON-RPC-POST: method=ListAccounts, url=https://10.117.207.128/json-rpc/10.1, id=1048
+2018-02-07 18:48:21.813039 ERROR [autologger.main.log:241] [MainProcess:MainThread] JSON-RPC-POST: method=ListAccounts, url=https://10.117.207.128/json-rpc/10.1, id=1048
+test_exc_info: !!! Exception Occurred:
+! Traceback (most recent call last):
+!   File "/home/case.py", line 286, in _internal_test
+!     self._test()
+!   File "/tests.py", line 130, in _test
+!   File "/run.py", line 428, in _stop_all_vdbench
+!     master_id = self._master_sdk[VDBENCH_ID]
+! AttributeError: 'SDK' object has no attribute 'get_vdbench_id'
+!!!
+2018-02-07 18:48:27.044049 INFO [valence.camelot.suite.create_final_report:208] [MainProcess:MainThread] Output files dir: /home/nathaniel/2018-02-07T12.35.50
+
