@@ -1,0 +1,15 @@
+CS 444 - Assignment 2 Script
+
+The contents of this folder is as follows:
+ - compile_errors.sh
+	This is the script for the assignment
+ - script_test/
+	This directory is to be used to test the script and its functionality. It contains 3 directories (Ts1, Ts2, Ts3) that represent an executed test, each with its own unique test.log file. 
+
+The procedure of testing the script should be appearant from the documentation found within the script's file, but you can also follow the same steps to use the script_test directory. 
+
+1. Error compilation for a single test:
+	Execute script from this directory, passing in a path to one of the Ts* directories, or move to one of those directories and execute script without argument.
+
+2. Error compilation for multiple tests:
+	Execute script from this directory, passing in the path to the script_test directory or move to that directory. Be sure to use the -r flag.
