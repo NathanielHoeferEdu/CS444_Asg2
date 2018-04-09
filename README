@@ -3,8 +3,8 @@ CS 444 - Assignment 2 Script
 The contents of this folder is as follows:
  - compile_errors.sh
 	This is the script for the assignment
- - script_test/
-	This directory is to be used to test the script and its functionality. It contains 3 directories (Ts1, Ts2, Ts3) that represent an executed test, each with its own unique test.log file. 
+ - script_test.tar.gz
+	This is a tarball of the directory which is to be used to test the script and its functionality. Before trying to test, be sure to extract all of the directories contained in the tarball. It contains 3 directories (Ts1, Ts2, Ts3) that represent an executed test, each with its own unique test.log file. 
 
 The procedure of testing the script should be appearant from the documentation found within the script's file, but you can also follow the same steps to use the script_test directory. 
 
